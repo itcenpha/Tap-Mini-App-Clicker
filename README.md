@@ -1,5 +1,4 @@
 # Tap-Mini-App-Clicker
-# Tap-Mini-App-Clicker
 Mini App Clicker for Telegram - Copy Tapswap, Notcoin, Hamster | Tap To Earn Telegram
 
 <img src="https://github.com/lehoang11/Tap-Mini-App-Clicker/blob/a16fda608e13c60521264d3129a245db08faa1cc/photo_2024-07-16_14-40-04.jpg" alt="Mini App Telegram Clicker - Copy Tapswap, Blum, Hamster" data-canonical-src="https://i.imgur.com/ozcJaWV.jpg" style="max-width: 100%;">
